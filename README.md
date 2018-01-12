@@ -1,9 +1,7 @@
 # The-Ragequit-Game-AKA-Warlords-
-The game designed to piss off everyone (especially David)
+The game designed to piss off everyone (especially David). Created by con6r.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 Version History
 ------------------------------------------------------------------------------------------------------------------------------------------
-Stage            Date Started
-------------------------------------------------------------------------------------------------------------------------------------------
-Pre-Alpha v1.0 - 1/12/18
+Alpha v1.0 - Release Date TBD (currently in pre-alpha) | Date Started - 1/12/18
