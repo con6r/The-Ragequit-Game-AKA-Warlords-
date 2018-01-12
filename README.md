@@ -1,4 +1,4 @@
-# The-Ragequit-Game-AKA-Warlords-
+# The-Ragequit-Game-Warlords-Clone-
 The game designed to piss off everyone (especially David). Created by con6r.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
